@@ -34,7 +34,7 @@ Original: [англійською](README.md)
 - [Чому це використовувати?](#Чому-це-використовувати)
 - [Як це використовувати](#Як-це-використовувати)
 - [Не почувайтесь недостатньо розумними](#Не-почувайтесь-недостатньо-розумними)
-- [Про відео-ресурси](#about-video-resources)
+- [Про відео-ресурси](#Про-відео-ресурси)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [Book List](#book-list)
@@ -192,13 +192,13 @@ Original: [англійською](README.md)
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
-## About Video Resources
+## Про відео-ресурси
 
-Some videos are available only by enrolling in a Coursera, EdX, or Lynda.com class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access. Lynda.com courses are not free.
+Деякі відео доступні тільки при умові реєстрації на курсі Coursera, EdX, або Lynda.com. Вони називаються МООС.
+Деякі курси доступні лише періодично і вам доведеться чекати декілька місяців поки не з'явиться до них доступ. Курси на Lynda.com є платні.
 
-    I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
-    I like using university lectures.
+    Буду вдячний за вашу допомогу у додаванні нових і завжди доступних публічних ресурсів, таких як YouTube відео, які би доповнили відео онлайн курсів.
+    Я люблю використовувати університетські лекції.
 
 
 ## Interview Process & General Interview Prep
